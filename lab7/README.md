@@ -226,7 +226,8 @@ int main() {
     pthread_mutex_destroy(&mutex);
 }
 ```
-![image](https://github.com/user-attachments/assets/f763838f-8624-4d97-84f1-926caed4e444)
+![image](https://github.com/user-attachments/assets/b3a289ff-d22d-4695-93ab-edfe29eab38c)
+
 
 8.	Перемножение квадратных матриц NxN
 
@@ -299,7 +300,8 @@ int main(int argc, char* argv[]){
 }
 ```
 
-![image](https://github.com/user-attachments/assets/bf9d9450-1200-40f9-ab5b-628720ab8a5d)
+![image](https://github.com/user-attachments/assets/b8d5eeed-b54e-4dbd-9566-1241ec69e3c9)
+
 
 9.	Время выполнения
 
